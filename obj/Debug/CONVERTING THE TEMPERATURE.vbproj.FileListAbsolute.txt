@@ -1,0 +1,11 @@
+C:\Users\paul\source\repos\CONVERTING THE TEMPERATURE\obj\Debug\CONVERTING THE TEMPERATURE.vbprojAssemblyReference.cache
+C:\Users\paul\source\repos\CONVERTING THE TEMPERATURE\obj\Debug\CONVERTING_THE_TEMPERATURE.frmTempConverter.resources
+C:\Users\paul\source\repos\CONVERTING THE TEMPERATURE\obj\Debug\CONVERTING_THE_TEMPERATURE.Resources.resources
+C:\Users\paul\source\repos\CONVERTING THE TEMPERATURE\obj\Debug\CONVERTING THE TEMPERATURE.vbproj.GenerateResource.cache
+C:\Users\paul\source\repos\CONVERTING THE TEMPERATURE\bin\Debug\CONVERTING THE TEMPERATURE.exe.config
+C:\Users\paul\source\repos\CONVERTING THE TEMPERATURE\bin\Debug\CONVERTING THE TEMPERATURE.exe
+C:\Users\paul\source\repos\CONVERTING THE TEMPERATURE\bin\Debug\CONVERTING THE TEMPERATURE.pdb
+C:\Users\paul\source\repos\CONVERTING THE TEMPERATURE\bin\Debug\CONVERTING THE TEMPERATURE.xml
+C:\Users\paul\source\repos\CONVERTING THE TEMPERATURE\obj\Debug\CONVERTING THE TEMPERATURE.exe
+C:\Users\paul\source\repos\CONVERTING THE TEMPERATURE\obj\Debug\CONVERTING THE TEMPERATURE.xml
+C:\Users\paul\source\repos\CONVERTING THE TEMPERATURE\obj\Debug\CONVERTING THE TEMPERATURE.pdb
